@@ -1,0 +1,12 @@
+The References that are listed below are also included as a soft copy.
+The format of the soft copies is:
+	<ReferenceNumber>_<NameOfSoftCopy>
+
+[1]	Ravi Kishore Kodali, Krishna Yogi Borra, Sharan Sai G. N. and Jehova Honey Domma, “An IoT based Smart Parking System using LoRa”, “2018 International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery” 
+[2]	M Farooq and D Pesch, ”Analyzing LoRa: A use case perspective,” 2018	E 4th World Forum on Internet of Things (WF-IoT).
+[3]	S Mendiratta, D Dey and D Rani Sona, ”Automatic car parking system with visual indicator along with IoT,” 2017 International conference on Microelectronic Devices, Circuits and Systems (ICMDCS).
+[4]	Jonathan de Carvalho Silva, Joel J. P. C. Rodrigues, Antonio M. Alberti1, Petar Solic, Andre L. L. Aquino, National Institute of Telecommunications (Inatel), Santa Rita do Sapuca´ı - MG, Brazil,Instituto de Telecomunicac¸ ˜oes, Portugal, University of Fortaleza (UNIFOR), Fortaleza - CE, Brazil, University of Split, Split, Croatia, Computer Institute, Federal University of Alagoas, Macei´o - AL, Brazil.  “LoRaWAN - A Low Power WAN Protocol for Internet of Things: a Review and Opportunities”
+[5]	https://github.com/osresearch/esp32-ttgo
+[6]     https://www.amazon.com/HiLetgo-Display-Development-Bluetooth-Antenna/dp/B07FYWFH4C/ref=sr_1_1_sspa?keywords=esp32+lora&qid=1584204878&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUElLNldINkhZRFo0JmVuY3J5cHRlZElkPUEwMDE1NDQ2MjJYVzRZNkJaUjhFTSZlbmNyeXB0ZWRBZElkPUEwNTI3OTIyMUxNTUxIUllJRVVZTCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
+[7]     https://www.amazon.com/SunFounder-Serial-Module-Display-Arduino/dp/B019K5X53O/ref=sr_1_1_sspa?keywords=lcd+arduino&qid=1584204914&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExRFNCV0xSUTBNT0FaJmVuY3J5cHRlZElkPUEwMzUxNTgxM0NIRlEzODdMWFVKTyZlbmNyeXB0ZWRBZElkPUEwMzY1ODcwM1VJUjhRU0M4SVo1MiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
+[8]     https://www.amazon.com/Gikfun-avoidance-Reflective-Photoelectric-Intensity/dp/B07FJLMLVZ/ref=sr_1_5?crid=16N1MUM1LRLQ9&keywords=ir+sensors+arduino&qid=1584204965&sprefix=IR+sensors+arduino%2Caps%2C426&sr=8-5
